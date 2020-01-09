@@ -1,6 +1,3 @@
-Name: Linlin Cui
-Email: lcui@vims.edu
-
----
-permalink: /_layouts/about.html
----
+name: Linlin Cui
+email: lcui@vims.edu
+markdown: kramdown
